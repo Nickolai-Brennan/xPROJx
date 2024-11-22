@@ -1,0 +1,10 @@
+wp-config.php
+wp-content/uploads
+wp-content/cache
+wp-content/upgrade
+.htaccess
+node_modules
+vendor
+*.log
+*.sql
+*.DS_Store
